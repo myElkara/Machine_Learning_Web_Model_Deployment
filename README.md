@@ -2,7 +2,7 @@
 
 ## Overview
 
-repository ini berisi image classification web model deployment menggunakan flask
+Repository ini berisi image classification web model deployment menggunakan flask
 
 ## Model
 
