@@ -20,7 +20,7 @@ Kode html untuk upload gambar dan menampilkan hasil prediksi
 
 ## Uploads
 
-folder yang terbentuk secara otomatis saat mengunggah gambar pada web
+Folder yang terbentuk secara otomatis saat mengunggah gambar pada web
 
 ## App
 
